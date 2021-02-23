@@ -1,0 +1,20 @@
+html,
+body {
+    margin: 0;
+}
+
+button {
+    background: #f6f7f9;
+    border: solid 1px #ced0d4;
+    color: #4b4f56;
+    padding: 10px;
+}
+
+button:hover {
+    background: #e9ebee;
+}
+
+button:active {
+    background: #d3d4d6;
+    border-color: #d3d4d6;
+}
