@@ -18,3 +18,8 @@ button:active {
     background: #d3d4d6;
     border-color: #d3d4d6;
 }
+
+.clear-button {
+    display: block;
+    margin-bottom: 10px;
+}
